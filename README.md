@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Me chamo Matheus, tenho 18 anos e sou <strong>Desenvolvedor de Software</strong>.<br>
+  Olá! Me chamo Matheus, tenho 18 anos e sou <strong>Desenvolvedor de Software</strong> com foco em <strong>Machine Learning</strong>.<br>
   Estou cursando <strong>Engenharia de Software</strong> na <strong>Faculdade Anhanguera</strong> e sou <strong>Técnico em Desenvolvimento de Sistemas</strong> pela <strong>ETEC Vasco Antônio Venchiarutti</strong>.
 </p>
 
 <p align="left"> 
-  Atualmente estou atuando como <strong>Estagiário em Engenharia de Software</strong> com foco em <strong>Desenvolvimento de Inteligência Artificial</strong> e <strong>Banco de Dados</strong> na <strong>ASTRA</strong>.
+  Atualmente estou atuando como <strong>Estagiário em Engenharia de Software</strong> com foco em <strong>Desenvolvimento de Inteligências Artificiais</strong>, lidando com <strong>Datasets baseados em Big Data</strong>, <strong>Redes Neurais CNN, NER, NLP e R-CNN</strong>, <strong>Computer Vision</strong> e <strong>Banco de Dados SQL, PostgreSQL e MongoDB</strong> na <strong>ASTRA S/A</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, Python, HTML & CSS.</strong>
+  🦄 Linguagens: <strong>JavaScript, Python, TypeScript, PHP.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ReactJS, NodeJS, Next, Firebase, MongoDB, SASS, OpenAI APIs.</strong>
+  💼 Ferramentas: <strong>ReactJS, NodeJS, Next, Firebase, MongoDB, SASS, TensorFlow, PyTorch, Pandas, Keras, Laravel e outras.</strong>
 </p>
 
 <p align="left">
