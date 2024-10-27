@@ -1,20 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Me chamo Matheus, tenho 18 anos e sou <strong>Desenvolvedor de Software</strong> com foco em <strong>Machine Learning</strong>.<br>
-  Estou cursando <strong>Engenharia de Software</strong> na <strong>Faculdade Anhanguera</strong> e sou <strong>Técnico em Desenvolvimento de Sistemas</strong> pela <strong>ETEC Vasco Antônio Venchiarutti</strong>.
-</p>
-
-<p align="left"> 
-  Atualmente estou atuando como <strong>Estagiário em Engenharia de Software</strong> com foco em <strong>Desenvolvimento de Inteligências Artificiais</strong>, lidando com <strong>Datasets baseados em Big Data</strong>, <strong>Redes Neurais CNN, NER, NLP e R-CNN</strong>, <strong>Computer Vision</strong> e <strong>Banco de Dados SQL, PostgreSQL e MongoDB</strong> na <strong>ASTRA S/A</strong>.
+ Cursando Engenharia de Software na Anhanguera Educacional, atualmente sou Analista de Desenvolvimento de Sistemas Jr. na ASTRA, onde meu foco está no desenvolvimento de soluções tecnológicas de aprendizado de máquina e inteligência artificial. Minhas principais competências incluem a integração de ferramentas avançadas de IA, aprendizado de máquina e gerenciamento de Big Data. Notavelmente, desenvolvi um servidor de inferência de IA e gerenciei grandes coletas de Big Data, que sustentam soluções tecnológicas internas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, Python, TypeScript, PHP.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>ReactJS, NodeJS, Next, Firebase, MongoDB, SASS, TensorFlow, PyTorch, Pandas, Keras, Laravel e outras.</strong>
+Minhas contribuições recentes demonstram um compromisso com a inovação e a eficiência, destacadas pela implementação de um Modelo de Linguagem Grande (LLM) local, utilizando Ollama e PyTorch. Esses esforços, realizados com a ajuda de uma equipe talentosa, estão alinhados com a cultura da ASTRA de ultrapassar os limites da tecnologia. Meu objetivo é enriquecer nossa equipe com perspectivas diversas e sólidas capacidades de resolução de problemas, aproveitando minhas habilidades em redes neurais e clustering de dados.
 </p>
 
 <p align="left">
