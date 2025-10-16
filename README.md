@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h3 align="center">Machine Learning Developer focused on NLP, Computer Vision and AIOps.</h3>
+<h3 align="center">Machine Learning Engineer focused on NLP, Computer Vision and AIOps.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/matjsilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
