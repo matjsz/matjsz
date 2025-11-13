@@ -31,5 +31,4 @@ I'm a ML developer blending creativity with technical expertise to build intelli
 ## Highlighted Projects
 
 - [ALF-T5](https://github.com/matjsz/alf-t5): Open-source framework simplifying Neural Machine Translation (NMT) fine-tuning.
-- [Polyglot](https://github.com/matjsz/polyglot): A modular, serverless architecture for on-demand translation of constructed languages via [ALF-T5](https://github.com/matjsz/alf-t5), built atop a cold-start GPU orchestration pipeline using Runpod.
 - [Shard](https://github.com/matjsz/shard): Open-source Python package to simplify LLM fine-tuning from hundreds of lines of PEFT LoRA implementation on causal decoder architectures to a couple lines of Shard code.
