@@ -32,3 +32,4 @@ I'm a ML developer blending creativity with technical expertise to build intelli
 
 - [ALF-T5](https://github.com/matjsz/alf-t5): Open-source framework simplifying Neural Machine Translation (NMT) fine-tuning.
 - [Shard](https://github.com/matjsz/shard): Open-source Python package to simplify LLM fine-tuning from hundreds of lines of PEFT LoRA implementation on causal decoder architectures to a couple lines of Shard code.
+- [Nydra](https://github.com/matjsz/nydra): Open-source Python production-grade template for ML APIs and pipelines. It couples FastAPI + MLflow + Metaflow with security, observability, and deployment patterns that work from laptop to enterprise.
